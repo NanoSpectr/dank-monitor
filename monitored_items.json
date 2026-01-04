@@ -8,6 +8,10 @@
     {
       "item_name": "Peter Griffin",
       "id": "Character_ZebraScramble_Bacon"
+    },
+    {
+      "item_name": "Bird Nest",
+      "id": "Character_BirdNest"
     }
   ]
 }
