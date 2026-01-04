@@ -1,0 +1,13 @@
+{
+  "monitoredItems": [
+    {
+      "item_name": "Dank Hill",
+      "id": "character_hedgesprig",
+      "custom_message": "Talking 'bout yo man, Dank Hill is available in the item shop"
+    },
+    {
+      "item_name": "Peter Griffin",
+      "id": "Character_ZebraScramble_Bacon"
+    }
+  ]
+}
