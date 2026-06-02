@@ -15,6 +15,18 @@
     {
       "item_name": "Hatsune Miku",
       "id": "Character_JadeTowelGloss"
+    },
+    {
+      "item_name": "Commander Zavala",
+      "id": "CID_A_467_Athena_Commando_M_Wayfare"
+    },
+    {
+      "item_name": "Ikora Rey",
+      "id": "CID_A_468_Athena_Commando_F_Wayfare"
+    },
+    {
+      "item_name": "The Exo Stranger",
+      "id": "CID_A_469_Athena_Commando_F_WayfareMask"
     }
   ],
   "previouslyAcquired": [
